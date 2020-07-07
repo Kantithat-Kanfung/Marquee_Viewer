@@ -1,0 +1,10 @@
+C:\Users\Snakeman\Desktop\Sky_Viewer\bin\Debug\Sky_Viewer.exe.config
+C:\Users\Snakeman\Desktop\Sky_Viewer\bin\Debug\Sky_Viewer.exe
+C:\Users\Snakeman\Desktop\Sky_Viewer\bin\Debug\Sky_Viewer.pdb
+C:\Users\Snakeman\Desktop\Sky_Viewer\bin\Debug\Sky_Viewer.xml
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.MainSceen.resources
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.Resources.resources
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.vbproj.GenerateResource.Cache
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.exe
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.xml
+C:\Users\Snakeman\Desktop\Sky_Viewer\obj\Debug\Sky_Viewer.pdb
